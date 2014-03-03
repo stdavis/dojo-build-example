@@ -1,0 +1,6 @@
+dist/
+dojo-build-example.sublime*
+src/dojo
+src/dijit
+src/dojox
+src/util
