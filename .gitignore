@@ -2,6 +2,7 @@ dist/app
 dist/dijit
 dist/dojo
 dist/dojox
+dist/build-report.txt
 dojo-build-example.sublime*
 src/dojo
 src/dijit
