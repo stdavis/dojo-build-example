@@ -7,8 +7,7 @@ var profile = {
         'dojo/dojo': {
             include: [
                 'dojo/i18n',
-                'app/run',
-                'dojo/text'
+                'app/run'
             ],
             customBase: true,
             boot: true
