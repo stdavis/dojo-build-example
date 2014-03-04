@@ -4,6 +4,7 @@
         packages: [
             'dojo',
             'dijit',
+            'dojox',
             'app'
         ]
     };
