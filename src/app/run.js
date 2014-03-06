@@ -5,7 +5,9 @@
         packages: [
             'dojo',
             'dijit',
-            'app'
+            'dojox',
+            'app',
+            'esri'
         ]
     };
     require(config, ['app']);

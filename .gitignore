@@ -2,9 +2,11 @@ dist/app
 dist/dijit
 dist/dojo
 dist/dojox
+dist/esri
 dist/build-report.txt
 dojo-build-example.sublime*
 src/dojo
 src/dijit
 src/dojox
 src/util
+src/esri
