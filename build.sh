@@ -21,9 +21,6 @@ LOADERCONF="$SRCDIR/$LOADERMID.js"
 # Main application package build configuration
 PROFILE="$BASEDIR/profiles/build.profile.js"
 
-# echo "Cleaning old files..."
-# rm -rf "$DISTDIR"
-
 cd "$TOOLSDIR"
 
 if which node >/dev/null; then
